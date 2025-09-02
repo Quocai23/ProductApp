@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build outputs
+android/
+ios/
+build/
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+
+# Misc
+package-lock 2.json
